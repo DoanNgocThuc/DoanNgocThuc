@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Thức and I'm a humble developer, from Việt Nam</p>
+<p align="left">My name is Thức and I'm a humble developer, from Việt Nam.</p>
+<p align="left">I enjoy design website for their proper theme</p>p
 
 ###
 
@@ -58,5 +59,14 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo" />
+</div>
+
+
+###
+
+<h3 align="left">Other</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Flutter logo" />
 </div>
 

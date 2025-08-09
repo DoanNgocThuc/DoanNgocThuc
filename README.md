@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Thức and I'm a humble developer, from Việt Nam.</p>
-<p align="left">I enjoy design website for their proper theme</p>p
+<p align="left">I enjoy design website for their proper theme</p>
 
 ###
 
